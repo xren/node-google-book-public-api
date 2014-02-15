@@ -1,0 +1,23 @@
+{
+  "name": "node-google-book-public-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xren/node-google-book-public-api.git"
+  },
+  "author": "Xiaoxiang Ren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xren/node-google-book-public-api/issues"
+  },
+  "homepage": "https://github.com/xren/node-google-book-public-api",
+  "dependencies": {
+    "request": "~2.33.0",
+    "q": "~1.0.0"
+  }
+}
